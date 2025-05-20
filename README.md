@@ -7,8 +7,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Verions:
 
 React: 18.3.1
+
 React Native: 0.77.2
+
 Node: 20.16.0
+
 Npm: 10.8.1
 
 ## Videos:
