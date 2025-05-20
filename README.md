@@ -14,6 +14,7 @@ Npm: 10.8.1
 ## Videos:
 
 Login Flow: https://github.com/user-attachments/assets/61e540bb-30f1-411d-b177-f417f299b264
+
 Register Flow: https://github.com/user-attachments/assets/e1d72350-0655-4703-894e-8f2ea669d710
 
 ## Step 1: Start Metro
